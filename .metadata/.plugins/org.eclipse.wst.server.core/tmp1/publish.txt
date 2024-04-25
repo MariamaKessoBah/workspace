@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Apr 25 10:58:03 GMT 2024
+org.eclipse.jst.jee.server\:gesusers2=C\:\\jakarta\\setup-javaee\\tomcat-9.0.14-windows-x64\\apache-tomcat-9.0.14\\wtpwebapps\\gesusers2
+org.eclipse.jst.jee.server\:gesusers4=C\:\\jakarta\\setup-javaee\\tomcat-9.0.14-windows-x64\\apache-tomcat-9.0.14\\wtpwebapps\\gesusers4
